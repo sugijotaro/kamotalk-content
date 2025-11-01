@@ -4,7 +4,7 @@
 
 **SFC生協のカフェ「endores」の初代店長**として知られ、その後ふらりとカンボジアへ渡り、軍事衝突にまで遭遇したという彼。その波乱万丈な経歴の裏には、一体どんな物語が隠されているのでしょうか。
 
-[#endores初代店長](https://note.com/hashtag/endores%E5%88%9D%E4%BB%A3%E5%BA%97%E9%95%B7) [#カンボジアの孤児院暮らし](https://note.com/hashtag/%E3%82%AB%E3%83%B3%E3%83%9C%E3%82%B8%E3%82%A2%E3%81%AE%E5%AD%A4%E5%85%90%E9%99%A2%E6%9A%AE%E3%82%89%E3%81%97) [#文化人類学](https://note.com/hashtag/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6)
+#endores初代店長 #カンボジアの孤児院暮らし #文化人類学
 
 ## 目次
 
