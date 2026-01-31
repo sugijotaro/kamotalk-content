@@ -1,0 +1,47 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Articles JSON
+        run: npm run build:articles
+
+      - name: Prepare Public Directory
+        run: |
+          # The build:articles script already creates public/api/articles.json
+          # We need to copy content and README to public
+
+          # Create content directory in public
+          mkdir -p public/content
+
+          # Copy everything from content/ to public/content/ recursively
+          cp -r content/* public/content/
+
+          # Copy README.md to public/index.md (GitHub Pages/Jekyll will render this as the homepage)
+          cp README.md public/index.md
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
