@@ -37,8 +37,8 @@ jobs:
           # Copy everything from content/ to public/content/ recursively
           cp -r content/* public/content/
 
-          # Copy README.md to public/index.md (GitHub Pages/Jekyll will render this as the homepage)
-          cp README.md public/index.md
+          # Copy README.md to public/README.md
+          cp README.md public/README.md
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
