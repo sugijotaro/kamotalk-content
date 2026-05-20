@@ -3,7 +3,8 @@ name: Publish Articles Data
 on:
   push:
     branches: ["main"]
-    paths: ["data/articles.yaml", "scripts/build-articles.js"]
+    paths:
+      ["data/articles.yaml", "data/tags.yaml", "scripts/build-articles.js"]
 
 permissions:
   contents: write
