@@ -6,6 +6,7 @@ It provides an API of articles and hosts the markdown content.
 ## Accessing Content
 
 - **Articles JSON**: `https://sugijotaro.github.io/kamotalk-content/api/articles.json`
+- **Tags JSON**: `https://sugijotaro.github.io/kamotalk-content/api/tags.json`
 - **Markdown Files**: `https://sugijotaro.github.io/kamotalk-content/content/articles/{filename}.md`
 
 ## Development
