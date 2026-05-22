@@ -4,6 +4,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/220548955/rectangle_large_type_2_0edf19038e20e9db3227d1c71c73888e.jpeg
   published_at: "2025-10-07"
   name: jotaro-sugiyama
+  display_name: 杉山丈太郎
   catchphrase: "「面白い」を形にし、人と人を繋げる起業家"
   faculty: "環境情報学部"
   grade: "学部3年"
@@ -19,6 +20,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/220932199/rectangle_large_type_2_d5d261abaf0b011072e4037444d18086.jpeg
   published_at: "2025-10-08"
   name: yohta-kitagawa
+  display_name: 北川陽太
   catchphrase: "「会話」を軸に、点と点を繋ぐ越境する創作者"
   faculty: "環境情報学部"
   grade: "学部3年"
@@ -34,6 +36,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/221105091/rectangle_large_type_2_5992fb7ab9fbd1f1ac5da21f62edc482.jpeg?width=1280
   published_at: "2025-10-09"
   name: kenshin-hayashi
+  display_name: 林賢真
   catchphrase: "孤独と悔しさを使命に変え、SFCを繋ぐ開発者"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -49,6 +52,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/222443196/rectangle_large_type_2_0bd5074465698e842805962d679e6b58.jpeg?width=2000&height=2000&fit=bounds&quality=85
   published_at: "2025-10-15"
   name: riku-miyagawa
+  display_name: 宮川陸
   catchphrase: "回り道の点を線に繋ぐ、好奇心の探究者"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -64,6 +68,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/222587765/rectangle_large_type_2_9e628b046c5249dbaa70fbe2dd00f281.jpeg?width=1280
   published_at: "2025-10-16"
   name: fusanosuke-izumi
+  display_name: 泉房之介
   catchphrase: "安定を捨て、ヒリヒリを生きる連続起業家の卵"
   faculty: ""
   grade: "学部1年"
@@ -79,6 +84,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/222885166/rectangle_large_type_2_c77990b79396a8081e5603aa15ceaaf3.jpeg?width=1280
   published_at: "2025-10-17"
   name: kotaro-miura
+  display_name: 三浦康太郎
   catchphrase: "10歳の夢を圧倒的行動力で形にする独学の実業家"
   faculty: "環境情報学部"
   grade: "学部3年"
@@ -94,6 +100,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/222717931/rectangle_large_type_2_9ea9e9e3a5187c36031ba3320d8f6cd8.jpeg?width=1280
   published_at: "2025-10-17"
   name: hidetomo-takatori
+  display_name: 髙取英倫
   catchphrase: "挫折も迷いも音に変える、境界を越えるアーティスト"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -109,6 +116,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/223033655/rectangle_large_type_2_7a954547534043064aeafa02ea69a087.jpeg?width=1280
   published_at: "2025-10-18"
   name: go-yokoyama
+  display_name: 横山豪
   catchphrase: "歴史を紡ぎ人を繋ぐ、知的好奇心のルネサンスマン"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -125,6 +133,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/223784121/rectangle_large_type_2_5faff0733705ff3587437a1b551f75ee.jpeg?width=1280
   published_at: "2025-10-23"
   name: ryo-uwagawa
+  display_name: 宇和川 龍
   catchphrase: "「ないなら作る」SFCに宇宙を実装する開拓者"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -140,6 +149,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/224699979/rectangle_large_type_2_5acc8899b66c89b1db2bcdfae867cd15.jpeg?width=1280
   published_at: "2025-10-25"
   name: seungil-choi
+  display_name: スンイル
   catchphrase: "「好き」を原動力に、韓国へSFCイズムを届ける挑戦者"
   faculty: "総合政策学部"
   grade: ""
@@ -156,6 +166,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/224871474/rectangle_large_type_2_7b4ce73becc3b55556f039664dbaa25b.jpeg?width=1280
   published_at: "2025-10-26"
   name: souta-hiratsuka
+  display_name: 平塚蒼大
   catchphrase: "「美しい」を脳から解き明かす、領域を超える探究者"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -171,6 +182,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/225813312/rectangle_large_type_2_62af28631dda159031813b2d86574fc5.jpeg?width=1280
   published_at: "2025-10-30"
   name: masaru-koizumi
+  display_name: 小泉大
   catchphrase: "「満足しない」反骨精神で世界を渡るカフェ創業者"
   faculty: ""
   grade: ""
@@ -186,6 +198,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/225579891/rectangle_large_type_2_72e8758a844be273e49a18ba2737fb7f.jpeg?width=1280
   published_at: "2025-10-30"
   name: kaho-shioyama
+  display_name: 塩山佳萌
   catchphrase: "縁を繋ぎ、出会いを力に変えるコミュニケーター"
   faculty: "総合政策学部"
   grade: ""
@@ -201,6 +214,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/226111745/rectangle_large_type_2_8209d0bf52e993673940be23b4299b6f.jpeg?width=1280
   published_at: "2025-10-31"
   name: taro-ishikawa
+  display_name: 石川太郎
   catchphrase: "コンプレックスを原動力に光を放つクリエイター"
   faculty: ""
   grade: "学部1年"
@@ -216,6 +230,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/225982387/rectangle_large_type_2_31424390d9937f3d0657d8272e3d008b.jpeg?width=1280
   published_at: "2025-11-01"
   name: yusei-ichimura
+  display_name: 市村優成
   catchphrase: "「生の言葉」に魅せられ、政治と世界を繋ぐ開発者"
   faculty: "総合政策学部"
   grade: "学部2年"
@@ -231,6 +246,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/226772123/rectangle_large_type_2_d6f28bccf958dadeac1c874ad7aa601b.jpeg?width=1280
   published_at: "2025-11-04"
   name: yusuke-yasui
+  display_name: 安井優介
   catchphrase: "過去を受け入れ、人間の葛藤を「可愛い」と慈しむ人"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -246,6 +262,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/226966114/rectangle_large_type_2_8a5af94b17314442c2c5728e81b88eda.jpeg?width=1280
   published_at: "2025-11-06"
   name: yoshiki-tamayama
+  display_name: 玉山義規
   catchphrase: "全ての挫折を誇りに、マイクで再起を叫ぶラッパー"
   faculty: ""
   grade: "学部4年"
@@ -261,6 +278,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/226752079/rectangle_large_type_2_68b6234ee357049e7c26efbe1a97051e.jpeg?width=1280
   published_at: "2025-11-07"
   name: daishin-suzuki
+  display_name: 鈴木大心
   catchphrase: "2歳から跳び続け、トランポリンを広める起業家"
   faculty: "環境情報学部"
   grade: "学部4年"
@@ -276,6 +294,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/227393849/rectangle_large_type_2_bc52fa95b45326d40e410517c86f73f6.jpeg?width=1280
   published_at: "2025-11-08"
   name: shun-oba
+  display_name: 大庭 駿
   catchphrase: "「ワンチャンある世界」を子供たちに描くデザイナー"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -291,6 +310,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/228567235/rectangle_large_type_2_0573607d5b1eb693b37cebf6e57ca79b.jpeg?width=1280
   published_at: "2025-11-11"
   name: yuto-okuda
+  display_name: 奥田悠聖
   catchphrase: "劣等感をバネに、政治×マーケで春日部市長を目指す"
   faculty: "環境情報学部"
   grade: "学部3年"
@@ -306,6 +326,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/228800985/rectangle_large_type_2_9502eb28a39de8f6bdb7d8d2d9f4b686.jpeg?width=1280
   published_at: "2025-11-13"
   name: sota-ono
+  display_name: 小野蒼太
   catchphrase: "みんなの個が瞬く教室を描く、未来の教育者"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -321,6 +342,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/229177273/rectangle_large_type_2_5b3b3218ba292ce8c6cfae2602ad6dea.jpeg?width=1280
   published_at: "2025-11-14"
   name: yohei-yaoi
+  display_name: 矢追陽平
   catchphrase: "独学で「面白い」を形にし、世界と繋がるゲームクリエイター"
   faculty: "環境情報学部"
   grade: "学部1年"
@@ -336,6 +358,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/228823082/rectangle_large_type_2_bb2c3cd3ea4b3aade92c2ff5c01ba3a5.jpeg?width=1280
   published_at: "2025-11-14"
   name: mahiru-hara
+  display_name: 原舞ひる
   catchphrase: "馬と人の繋がりを愛し、現場へ走るスポーツ記者"
   faculty: "環境情報学部"
   grade: "学部4年"
@@ -351,6 +374,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/229399961/rectangle_large_type_2_2ca4947f9103eb92c117ce6dca3ee4c9.jpeg?width=1280
   published_at: "2025-11-15"
   name: shota-ueno
+  display_name: 上野祥太
   catchphrase: "劣等感を燃料に、やりたいこと全部やる広告クリエイター"
   faculty: ""
   grade: "学部4年"
@@ -366,6 +390,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/229870660/rectangle_large_type_2_f1e85fa04949bdf79dfeb7ad41c9481a.jpeg?width=1280
   published_at: "2025-11-16"
   name: gashin-suzuki
+  display_name: 鈴木我信
   catchphrase: "誰一人取り残さない「未来の当たり前」を創るエンジニア"
   faculty: "環境情報学部"
   grade: "学部1年"
@@ -381,6 +406,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230068310/rectangle_large_type_2_ad7086a24e80cae3fb000174ce8237fd.jpeg?width=1280
   published_at: "2025-11-17"
   name: keisuke-mita
+  display_name: 三田啓介
   catchphrase: "全社会にアンチテーゼを掲げ、偶然をハックする先導者"
   faculty: "環境情報学部"
   grade: "学部1年"
@@ -396,6 +422,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230624558/rectangle_large_type_2_71ee4bc311df9e0837c1231df23bf554.jpeg?width=1280
   published_at: "2025-11-18"
   name: yurina-nakatsu
+  display_name: 中津優理奈
   catchphrase: "「ありのままの自分」を愛せる社会を創る発信者"
   faculty: "環境情報学部"
   grade: ""
@@ -411,6 +438,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230538301/rectangle_large_type_2_dc05ee951115523b912c50bbee7fe765.jpeg?width=1280
   published_at: "2025-11-19"
   name: taisei-yabu
+  display_name: 藪太誠
   catchphrase: "「答えのない問い」を楽しみ、教育で人を救う探究者"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -426,6 +454,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230466379/rectangle_large_type_2_6ab39c1b85f03ef7a4f39610d836b180.jpeg?width=1280
   published_at: "2025-11-19"
   name: takuya-suzuki
+  display_name: 鈴木拓哉
   catchphrase: "音楽と共創で、SFCに新しいアートを刻むSSW"
   faculty: "環境情報学部"
   grade: "学部1年"
@@ -441,6 +470,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230273708/rectangle_large_type_2_42e9936361050f7fc54606a4fa9b9209.jpeg?width=1280
   published_at: "2025-11-20"
   name: kotaro-ogura
+  display_name: 小倉功太郎
   catchphrase: "当たり前を疑い、地方の最先端で「日本創生」を描く挑戦者"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -456,6 +486,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230537572/rectangle_large_type_2_9606c19bea4ca700a7f137b20a9893d9.jpeg?width=1280
   published_at: "2025-11-21"
   name: koya-tani
+  display_name: 谷 昊埜
   catchphrase: "政治とビジネスの両輪で能登から日本を創る起業家"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -471,6 +502,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230881632/rectangle_large_type_2_e10a9a8c7da14a6e8559312978598a33.jpeg?width=1280
   published_at: "2025-11-21"
   name: shunsuke-fuchigami
+  display_name: 渕上 駿介
   catchphrase: "孤独な独学から共創へ、最前線を走る映像作家"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -486,6 +518,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/230628635/rectangle_large_type_2_ba629b18b20f4babe41a1cad3681cc9c.jpeg?width=1280
   published_at: "2025-11-24"
   name: yuto-maeda
+  display_name: 前田悠翔
   catchphrase: "「逆張り」で教育を変える、第三者という名の改革者"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -501,6 +534,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/231821227/rectangle_large_type_2_fb22fdbd58bb6b6077a034914fb5fba3.jpeg?width=1280
   published_at: "2025-11-25"
   name: ayane-kawajiri
+  display_name: 河尻綾音
   catchphrase: "弓道の弦音から探る、人を動かす「快音」の科学者"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -516,6 +550,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/232259957/rectangle_large_type_2_de362ad1a63e7f075e6872993390808c.jpeg?width=1280
   published_at: "2025-11-27"
   name: soma-otokozawa
+  display_name: 男沢壮真
   catchphrase: "海から社会へ、助け合いの文化を創るライフセーバー"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -531,6 +566,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/232673639/rectangle_large_type_2_d156fb43b847897ec4874d91e81c72b3.jpeg?width=1280
   published_at: "2025-11-29"
   name: kokomi-watanabe
+  display_name: 渡邉心海
   catchphrase: "称賛より共創を、愛する藤沢と人をつなぐハブ"
   faculty: "総合政策学部"
   grade: "学部4年"
@@ -546,6 +582,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/233276974/rectangle_large_type_2_43d5708f9175aaa34fbb027561200aac.jpeg?width=2000&height=2000&fit=bounds&quality=85
   published_at: "2025-12-01"
   name: hayato-nakamura
+  display_name: 中村 颯
   catchphrase: "主役じゃない表現者、埋もれた才能を輝かせるサポーター"
   faculty: "環境情報学部"
   grade: ""
@@ -561,6 +598,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/233835677/rectangle_large_type_2_3e6510d056080bfc9d32d32fc8984e73.jpeg?width=1280
   published_at: "2025-12-04"
   name: anju-nakai
+  display_name: 中井杏樹
   catchphrase: "日常すべてが刺激、考えるより先に動く好奇心の塊"
   faculty: ""
   grade: "学部4年"
@@ -576,6 +614,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/234399766/rectangle_large_type_2_1a88c6b5cbc0de7e889616845dea0475.jpeg?width=1280
   published_at: "2025-12-07"
   name: shun-hirose
+  display_name: 廣瀬舜
   catchphrase: "海はロマン、未知へ突っ込む「ゴマモンガラ」な探究者"
   faculty: "環境情報学部"
   grade: "学部2年"
@@ -591,6 +630,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/234892174/rectangle_large_type_2_e545712244f50e8a2a798e40375bb4ff.jpeg?width=1280
   published_at: "2025-12-08"
   name: yamato-hosoi
+  display_name: 細井大和
   catchphrase: "被写体を超える、アジアNo.1を目指す表現者モデル"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -606,6 +646,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/248235965/rectangle_large_type_2_934a870ef640fa5263b81ccd4c911bd2.jpeg?width=1280
   published_at: "2025-12-11"
   name: yuki-sato
+  display_name: 佐藤由樹
   catchphrase: "「熱中」に憧れ、口笛とまちづくりに賭ける好奇心ボーイ"
   faculty: "総合政策学部"
   grade: "学部1年"
@@ -621,6 +662,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/221086532/rectangle_large_type_2_782c49e996ff8579962fdb9414a1c7eb.jpeg?width=1280
   published_at: "2025-12-14"
   name: aoi-yoshizawa
+  display_name: 𠮷澤葵
   catchphrase: "社会への嫌悪感を燃料に、誰もが安心して生きられる社会を創る人"
   faculty: "環境情報学部"
   grade: "学部4年"
@@ -637,6 +679,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/236259904/rectangle_large_type_2_12fdd4df123c66e5111d9dbe098707d7.jpeg?width=1280
   published_at: "2025-12-16"
   name: mayu-azuma
+  display_name: 吾妻真優
   catchphrase: "感性と論理の二刀流で、心の痛みに効く音楽の処方箋を作る人"
   faculty: "環境情報学部"
   grade: "学部4年"
@@ -652,6 +695,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/248237226/rectangle_large_type_2_09132e8066afe556da32ebe6e3c96fcb.jpeg?width=1280
   published_at: "2025-12-21"
   name: shigetake-tsukada
+  display_name: 束田繁洸
   catchphrase: "発言できない人の代弁者となるAIファシリテーターを目指す若きエンジニア"
   faculty: "環境情報学部"
   grade: "学部1年"
@@ -667,6 +711,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/238614954/rectangle_large_type_2_6cc53e5f55666dabd01856b4565600e5.jpeg?width=1280
   published_at: "2025-12-24"
   name: kazuki-iimura
+  display_name: 飯村一輝
   catchphrase: "イメージと言語化で限界を超えた、パリ五輪王者の戦略家"
   faculty: "総合政策学部"
   grade: "学部4年"
@@ -681,6 +726,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/241357695/rectangle_large_type_2_0ea27ea1631c9f3f0c85eb7a9c451658.jpeg?width=1280
   published_at: "2026-01-04"
   name: ayuka-kuromaru
+  display_name: 九郎丸歩花
   catchphrase: "「普通じゃない」を肯定し、次世代の可能性を広げる元JKカレー社長"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -696,6 +742,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/248238550/rectangle_large_type_2_9d6b78dad21a73f4121f990f4c4da380.jpeg?width=1280
   published_at: "2026-01-06"
   name: yumeka-sano
+  display_name: 佐野 夢果
   catchphrase: "車椅子をレンズに社会を観測し、ただ存在することで道を拓く人"
   faculty: "環境情報学部"
   grade: "学部1年"
@@ -711,6 +758,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/242277046/rectangle_large_type_2_35c516834f2633904bd862384760f6fa.jpeg?width=1280
   published_at: "2026-01-08"
   name: atsuki-yamamoto
+  display_name: 山本温生
   catchphrase: "出会いで人生を変える、ナナメの関係を解き明かす教育の探究者"
   faculty: ""
   grade: "学部4年"
@@ -726,6 +774,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/243497503/rectangle_large_type_2_96e9cc3fb6e56b4117a291c2c3c445dd.jpeg?width=1280
   published_at: "2026-01-16"
   name: ellie-kodama
+  display_name: 児玉英里
   catchphrase: "理念と可愛さを両立させ、想いを次へ継ぐクリーンビューティーの担い手"
   faculty: "総合政策学部"
   grade: "学部4年"
@@ -741,6 +790,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/244495013/rectangle_large_type_2_fe5dbc02155d4edbeee1404fe49ba069.jpeg?width=1280
   published_at: "2026-01-19"
   name: ayame-kito
+  display_name: 鬼頭采愛
   catchphrase: "実験室を飛び出し、街の誇りを磨くスローシティの探究者"
   faculty: "総合政策学部"
   grade: "学部2年"
@@ -757,6 +807,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/247064676/rectangle_large_type_2_6753d3707e4f67091f45ce2daec65829.jpeg?width=1280
   published_at: "2026-01-27"
   name: shohei-nishida
+  display_name: 西田翔平
   catchphrase: "「名前を覚えられない」課題に人生を賭ける、ないなら作るエンジニア"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -772,6 +823,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/247432749/rectangle_large_type_2_fddfe4322782c471b58c308e076d1137.jpeg?width=1280
   published_at: "2026-01-28"
   name: yura-yoshida
+  display_name: 吉田由良
   catchphrase: "「愛」を最大の武器に、誰もを受け入れる歩くパワースポット"
   faculty: "総合政策学部"
   grade: "学部3年"
@@ -787,6 +839,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/247689534/rectangle_large_type_2_bdfbe3fc07e62967361e65738d1045dc.jpeg?width=1280
   published_at: "2026-01-30"
   name: yamato-ueno
+  display_name: 上野大和
   catchphrase: "遊び心と技術で、人のポテンシャルを解放するフルスタックエンジニア"
   faculty: ""
   grade: ""
@@ -802,6 +855,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/248005359/rectangle_large_type_2_95d22a382d15f0b6103a12985ccf8d8f.jpeg?width=1280
   published_at: "2026-01-31"
   name: tsuyoshi-maehara
+  display_name: 前原剛
   catchphrase: "戦禍を知る学生として、平和を引き受け命の使い道を探る人"
   faculty: "総合政策学部"
   grade: ""
@@ -817,6 +871,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/256260523/rectangle_large_type_2_4b135b20c195797f8417baade31bb3df.jpeg?fit=bounds&quality=85&width=1280
   published_at: "2026-03-04"
   name: rana-kinbara
+  display_name: 金原羅奈
   catchphrase: "ご縁を力に、表現の垣根を越えて歌う挑戦者"
   faculty: ""
   grade: "学部4年"
@@ -832,6 +887,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/256454823/rectangle_large_type_2_9143f6d713f894675e10f8613b49f3e2.jpeg?fit=bounds&quality=85&width=1280
   published_at: "2026-03-05"
   name: keitatsu-nishino
+  display_name: 西野圭達
   catchphrase: "魚と食の知識で、地球規模の課題に挑む探究者"
   faculty: "環境情報学部"
   grade: "学部3年"
@@ -847,6 +903,7 @@
   thumbnail_url: https://assets.st-note.com/production/uploads/images/269364941/rectangle_large_type_2_d108228b100e00601654bd327550ad08.jpeg?fit=bounds&quality=85&width=1280
   published_at: "2026-04-28"
   name: nagomi-tsubone
+  display_name: 坪根和海
   catchphrase: "不屈の負けず嫌いで、教育の可能性を広げる挑戦者"
   faculty: ""
   grade: ""
